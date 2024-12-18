@@ -1,0 +1,27 @@
+{
+  "name": "Louis-Émile Vromet",
+  "title": "Développeur Full Stack",
+  "about_me_title": "À propos de moi 🧑‍💻",
+  "about_me_description": "Passionné par le développement web et en quête constante d'apprentissage, je suis développeur full-stack avec un vif intérêt pour les technologies émergentes telles que la blockchain et les cryptomonnaies.",
+  "looking_for_opportunities_title": {
+    "true": "Je cherche de nouvelles opportunités 💼",
+    "false": "Je ne cherche pas de nouvelles opportunités pour le moment 💼"
+  },
+  "location_label": "📍",
+  "location_value": "Québec, Canada",
+  "interests_label": "💖",
+  "interests_value": "Finance, Cryptomonnaies, Business",
+  "interest_description": "Toujours curieux, je suis passionné par la fusion de mes intérêts pour la finance et les cryptomonnaies avec mes compétences techniques afin de créer des projets innovants.",
+  "competences_title": "Compétences 💻",
+  "projects_title": "Projets 💡",
+  "view_project_button": "Voir",
+  "footer_text": "© 2024 Louis-Émile Vromet. Tous droits réservés.",
+
+  "sections": {
+    "languages": "Langages",
+    "frameworks": "Frameworks",
+    "libraries": "Bibliothèques",
+    "databases": "Bases de données",
+    "tools": "Outils"
+  }
+}
