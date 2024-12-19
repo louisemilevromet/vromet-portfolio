@@ -41,7 +41,7 @@ export default async function Page({
 
   return (
     <main
-      className="relative min-h-screen overflow-hidden py-16 px-4"
+      className="relative min-h-screen overflow-hidden py-16 px-4 "
       style={
         {
           "--pulse-rgb": pulseRGB,

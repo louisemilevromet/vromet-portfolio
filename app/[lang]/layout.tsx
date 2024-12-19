@@ -28,13 +28,13 @@ export default async function RootLayout({
 
   return (
     <html lang={lang} dir={dir(lang)}>
-      <ReactLenis root>
-        <body>
+      <body>
+        <ReactLenis root>
           <AnimationScreen />
-          {children}
+          <div className="start-loading loading">{children}</div>
           <Toaster />
-        </body>
-      </ReactLenis>
+        </ReactLenis>
+      </body>
     </html>
   );
 }

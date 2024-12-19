@@ -13,6 +13,10 @@ const AnimationScreenClient = () => {
     const wrappers = document.querySelectorAll(".wrapper");
     document.body.classList.add("scroll-freeze");
 
+    setTimeout(() => {
+      document.querySelector(".start-loading")?.classList.remove("loading");
+    }, 250);
+
     const scrollTimer = setTimeout(() => {
       document.body.classList.remove("scroll-freeze");
       document.body.classList.add("hide-back");

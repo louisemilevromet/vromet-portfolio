@@ -1,109 +1,109 @@
 {
-	"experiences": [
-		{
-			"position": {
-				"en": "Full Stack Developer",
-				"fr": "Développeur Full Stack"
-			},
-			"company": "Flare",
-			"location": {
-				"en": "Quebec, Canada",
-				"fr": "Québec, Canada"
-			},
-			"startDate": "Oct 2024",
-			"endDate": "Present",
-			"responsibilities": {
-				"en": [
-					"Developed new features for a SAAS platform.",
-					"Implemented and customized some features of the rich text editor using Lexical.",
-					"Built and maintained core functionalities of the SAAS application."
-				],
-				"fr": [
-					"Développement de nouvelles fonctionnalités pour une plateforme SAAS.",
-					"Implémentation et personnalisation de certaines fonctionnalités de l'éditeur de texte enrichi en utilisant Lexical.",
-					"Conception et maintenance des fonctionnalités principales de l'application SAAS."
-				]
-			},
-			"url": null
-		},
-		{
-			"position": {
-				"en": "Fullstack Developer - Intern",
-				"fr": "Développeur Fullstack - Stage"
-			},
-			"company": "Cossette",
-			"location": {
-				"en": "Quebec, Canada",
-				"fr": "Québec, Canada"
-			},
-			"startDate": "Mar 2024",
-			"endDate": "May 2024",
-			"responsibilities": {
-				"en": [
-					"Designed and developed an internal Svelte platform to track employees' work hours across projects, integrating with Google Calendar API.",
-					"Developed interactive features using Svelte for a project in collaboration with McDonald's.",
-					"Built the backend structure using Dato CMS, connected it to the SvelteKit frontend, and integrated Houdini GraphQL for a Montreal sports team webpage."
-				],
-				"fr": [
-					"Conçu et développé une plateforme interne en Svelte pour suivre les heures travaillées des employés sur chaque projet, en intégrant l'API de Google Calendar.",
-					"Développé des fonctionnalités interactives en Svelte pour un projet en collaboration avec McDonald's.",
-					"Créé la structure backend avec Dato CMS, connecté le backend au frontend SvelteKit et intégré Houdini GraphQL pour la page web d'une équipe sportive de Montréal."
-				]
-			},
-			"url": "https://www.cossette.com/fr/accueil"
-		},
-		{
-			"position": {
-				"en": "Web Integrator",
-				"fr": "Intégrateur Web"
-			},
-			"company": {
-				"en": "Government of Quebec (MEIE)",
-				"fr": "Gouvernement du Québec (MEIE)"
-			},
-			"location": {
-				"en": "Quebec, Canada",
-				"fr": "Québec, Canada"
-			},
-			"startDate": "Summer 2023",
-			"endDate": "Summer 2023",
-			"responsibilities": {
-				"en": [
-					"Integrated web pages, newsletters, and surveys using CMS tools such as Typo3, Dialog Insight, and SharePoint.",
-					"Processed multimedia content for websites and intranets for the Ministry of Economy (MEIE) and the Ministry of Tourism (MTO).",
-					"Created video montages for ministerial capsules."
-				],
-				"fr": [
-					"Intégration de pages web, infolettres et sondages en utilisant les outils CMS tels que Typo3, Dialog Insight et SharePoint.",
-					"Traitement de contenus multimédias destinés aux sites web et intranets du ministère de l'Économie (MEIE) et du ministère du Tourisme (MTO).",
-					"Réalisation de montages vidéo pour des capsules ministérielles."
-				]
-			},
-			"url": "https://www.economie.gouv.qc.ca/"
-		},
-		{
-			"position": {
-				"en": "Web Integrator",
-				"fr": "Intégrateur Web"
-			},
-			"company": "Pratico Pratique",
-			"location": {
-				"en": "Quebec, Canada",
-				"fr": "Québec, Canada"
-			},
-			"startDate": "Summer 2021",
-			"endDate": "Summer 2021",
-			"responsibilities": {
-				"en": [
-					"Integrated web pages for the '5 ingrédients 15 minutes' website using WordPress.",
-					"Used various image processing software to edit and optimize visual content."
-				],
-				"fr": [
-					"Intégration de pages web pour le site '5 ingrédients 15 minutes' en utilisant WordPress.",
-					"Utilisation de divers logiciels de traitement d'images pour éditer et optimiser le contenu visuel."
-				]
-			},
-			"url": "https://www.pratico-pratiques.com/"
-		}
-	]
+  "experiences": [
+    {
+      "position": {
+        "en": "Full Stack Developer",
+        "fr": "Développeur Full Stack"
+      },
+      "company": "Flare",
+      "location": {
+        "en": "Quebec, Canada",
+        "fr": "Québec, Canada"
+      },
+      "startDate": "Oct 2024",
+      "endDate": "Present",
+      "responsibilities": {
+        "en": [
+          "Developed new features for a SAAS platform.",
+          "Implemented and customized some features of the rich text editor using Lexical.",
+          "Built and maintained core functionalities of the SAAS application."
+        ],
+        "fr": [
+          "Développement de nouvelles fonctionnalités pour une plateforme SAAS.",
+          "Implémentation et personnalisation de certaines fonctionnalités de l'éditeur de texte enrichi en utilisant Lexical.",
+          "Conception et maintenance des fonctionnalités principales de l'application SAAS."
+        ]
+      },
+      "url": null
+    },
+    {
+      "position": {
+        "en": "Full Stack Developer - Intern",
+        "fr": "Développeur Full Stack - Stage"
+      },
+      "company": "Cossette",
+      "location": {
+        "en": "Quebec, Canada",
+        "fr": "Québec, Canada"
+      },
+      "startDate": "Mar 2024",
+      "endDate": "May 2024",
+      "responsibilities": {
+        "en": [
+          "Designed and developed an internal Svelte platform to track employees' work hours across projects, integrating with Google Calendar API.",
+          "Developed interactive features using Svelte for a project in collaboration with McDonald's.",
+          "Built the backend structure using Dato CMS, connected it to the SvelteKit frontend, and integrated Houdini GraphQL for a Montreal sports team webpage."
+        ],
+        "fr": [
+          "Conçu et développé une plateforme interne en Svelte pour suivre les heures travaillées des employés sur chaque projet, en intégrant l'API de Google Calendar.",
+          "Développé des fonctionnalités interactives en Svelte pour un projet en collaboration avec McDonald's.",
+          "Créé la structure backend avec Dato CMS, connecté le backend au frontend SvelteKit et intégré Houdini GraphQL pour la page web d'une équipe sportive de Montréal."
+        ]
+      },
+      "url": "https://www.cossette.com/fr/accueil"
+    },
+    {
+      "position": {
+        "en": "Web Integrator",
+        "fr": "Intégrateur Web"
+      },
+      "company": {
+        "en": "Government of Quebec (MEIE)",
+        "fr": "Gouvernement du Québec (MEIE)"
+      },
+      "location": {
+        "en": "Quebec, Canada",
+        "fr": "Québec, Canada"
+      },
+      "startDate": "Summer 2023",
+      "endDate": "Summer 2023",
+      "responsibilities": {
+        "en": [
+          "Integrated web pages, newsletters, and surveys using CMS tools such as Typo3, Dialog Insight, and SharePoint.",
+          "Processed multimedia content for websites and intranets for the Ministry of Economy (MEIE) and the Ministry of Tourism (MTO).",
+          "Created video montages for ministerial capsules."
+        ],
+        "fr": [
+          "Intégration de pages web, infolettres et sondages en utilisant les outils CMS tels que Typo3, Dialog Insight et SharePoint.",
+          "Traitement de contenus multimédias destinés aux sites web et intranets du ministère de l'Économie (MEIE) et du ministère du Tourisme (MTO).",
+          "Réalisation de montages vidéo pour des capsules ministérielles."
+        ]
+      },
+      "url": "https://www.economie.gouv.qc.ca/"
+    },
+    {
+      "position": {
+        "en": "Web Integrator",
+        "fr": "Intégrateur Web"
+      },
+      "company": "Pratico Pratique",
+      "location": {
+        "en": "Quebec, Canada",
+        "fr": "Québec, Canada"
+      },
+      "startDate": "Summer 2021",
+      "endDate": "Summer 2021",
+      "responsibilities": {
+        "en": [
+          "Integrated web pages for the '5 ingrédients 15 minutes' website using WordPress.",
+          "Used various image processing software to edit and optimize visual content."
+        ],
+        "fr": [
+          "Intégration de pages web pour le site '5 ingrédients 15 minutes' en utilisant WordPress.",
+          "Utilisation de divers logiciels de traitement d'images pour éditer et optimiser le contenu visuel."
+        ]
+      },
+      "url": "https://www.pratico-pratiques.com/"
+    }
+  ]
 }
