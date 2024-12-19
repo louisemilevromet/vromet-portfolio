@@ -1,51 +1,52 @@
 {
-  "sections.languages": [
-    { "name": "HTML", "path": "/assets/stacks/html5.svg" },
-    { "name": "CSS", "path": "/assets/stacks/css3.svg" },
-    { "name": "JavaScript", "path": "/assets/stacks/javascript.svg" },
-    { "name": "TypeScript", "path": "/assets/stacks/typescript.svg" },
-    { "name": "PHP", "path": "/assets/stacks/php.svg" },
-    { "name": "SQL", "path": "/assets/stacks/sql.svg" },
-    { "name": "Solidity", "path": "/assets/stacks/solidity.svg" }
-  ],
-  "sections.frameworks": [
-    { "name": "React", "path": "/assets/stacks/react.svg" },
-    { "name": "Next js", "path": "/assets/stacks/nextjs.svg" },
-    { "name": "Tailwind", "path": "/assets/stacks/tailwind.svg" },
-    { "name": "Sass", "path": "/assets/stacks/sass.svg" },
-    { "name": "Svelte", "path": "/assets/stacks/svelte.svg" },
-    { "name": "Node js", "path": "/assets/stacks/nodejs.svg" },
-    { "name": "Express", "path": "/assets/stacks/express.svg" },
-    { "name": "Lexical", "path": "/assets/stacks/lexical.svg" },
-    { "name": "Houdini", "path": "/assets/stacks/houdini.svg" }
-  ],
-  "sections.libraries": [
-    { "name": "GSAP", "path": "/assets/stacks/gsap.svg" },
-    { "name": "Three js", "path": "/assets/stacks/threejs.svg" },
-    { "name": "Framer Motion", "path": "/assets/stacks/framer.svg" },
-    { "name": "Blade", "path": "/assets/stacks/blade.svg" },
-    { "name": "Typewriter", "path": "/assets/stacks/default.svg" },
-    { "name": "Shadcn UI", "path": "/assets/stacks/shadcn.svg" },
-    { "name": "Prisma", "path": "/assets/stacks/prisma.svg" }
-  ],
-  "sections.databases": [
-    { "name": "MySQL", "path": "/assets/stacks/mysql.svg" },
-    { "name": "SQLite", "path": "/assets/stacks/sqlite.svg" }
-  ],
-  "sections.tools": [
-    { "name": "Git", "path": "/assets/stacks/git.svg" },
-    { "name": "Docker", "path": "/assets/stacks/docker.svg" },
-    { "name": "Figma", "path": "/assets/stacks/figma.svg" },
-    { "name": "Postman", "path": "/assets/stacks/postman.svg" },
-    { "name": "PHPMyAdmin", "path": "/assets/stacks/phpmyadmin.svg" },
-    { "name": "Bitbucket", "path": "/assets/stacks/bitbucket.svg" },
-    { "name": "Github", "path": "/assets/stacks/github.svg" },
-    { "name": "Gitlab", "path": "/assets/stacks/gitlab.svg" },
-    { "name": "DatoCMS", "path": "/assets/stacks/dato.svg" },
-    { "name": "Vercel", "path": "/assets/stacks/vercel.svg" },
-    { "name": "Mamp", "path": "/assets/stacks/mamp.svg" },
-    { "name": "WordPress", "path": "/assets/stacks/wordpress.svg" },
-    { "name": "Vite", "path": "/assets/stacks/vite.svg" },
-    { "name": "Spline", "path": "/assets/stacks/spline.svg" }
-  ]
+	"sections.languages": [
+		{ "name": "HTML", "path": "/assets/stacks/html5.svg" },
+		{ "name": "CSS", "path": "/assets/stacks/css3.svg" },
+		{ "name": "JavaScript", "path": "/assets/stacks/javascript.svg" },
+		{ "name": "TypeScript", "path": "/assets/stacks/typescript.svg" },
+		{ "name": "PHP", "path": "/assets/stacks/php.svg" },
+		{ "name": "SQL", "path": "/assets/stacks/sql.svg" },
+		{ "name": "Solidity", "path": "/assets/stacks/solidity.svg" }
+	],
+	"sections.frameworks": [
+		{ "name": "React", "path": "/assets/stacks/react.svg" },
+		{ "name": "Next js", "path": "/assets/stacks/nextjs.svg" },
+		{ "name": "Tailwind", "path": "/assets/stacks/tailwind.svg" },
+		{ "name": "Sass", "path": "/assets/stacks/sass.svg" },
+		{ "name": "Svelte", "path": "/assets/stacks/svelte.svg" },
+		{ "name": "Node js", "path": "/assets/stacks/nodejs.svg" },
+		{ "name": "Express", "path": "/assets/stacks/express.svg" },
+		{ "name": "Lexical", "path": "/assets/stacks/lexical.svg" },
+		{ "name": "Houdini", "path": "/assets/stacks/houdini.svg" }
+	],
+	"sections.libraries": [
+		{ "name": "GSAP", "path": "/assets/stacks/gsap.svg" },
+		{ "name": "Three js", "path": "/assets/stacks/threejs.svg" },
+		{ "name": "Framer Motion", "path": "/assets/stacks/framer.svg" },
+		{ "name": "Blade", "path": "/assets/stacks/blade.svg" },
+		{ "name": "Typewriter", "path": "/assets/stacks/default.svg" },
+		{ "name": "Shadcn UI", "path": "/assets/stacks/shadcn.svg" },
+		{ "name": "Prisma", "path": "/assets/stacks/prisma.svg" }
+	],
+	"sections.databases": [
+		{ "name": "MySQL", "path": "/assets/stacks/mysql.svg" },
+		{ "name": "SQLite", "path": "/assets/stacks/sqlite.svg" },
+		{ "name": "PostgreSQL", "path": "/assets/stacks/postgresql.svg" }
+	],
+	"sections.tools": [
+		{ "name": "Git", "path": "/assets/stacks/git.svg" },
+		{ "name": "Docker", "path": "/assets/stacks/docker.svg" },
+		{ "name": "Figma", "path": "/assets/stacks/figma.svg" },
+		{ "name": "Postman", "path": "/assets/stacks/postman.svg" },
+		{ "name": "PHPMyAdmin", "path": "/assets/stacks/phpmyadmin.svg" },
+		{ "name": "Bitbucket", "path": "/assets/stacks/bitbucket.svg" },
+		{ "name": "Github", "path": "/assets/stacks/github.svg" },
+		{ "name": "Gitlab", "path": "/assets/stacks/gitlab.svg" },
+		{ "name": "DatoCMS", "path": "/assets/stacks/dato.svg" },
+		{ "name": "Vercel", "path": "/assets/stacks/vercel.svg" },
+		{ "name": "Mamp", "path": "/assets/stacks/mamp.svg" },
+		{ "name": "WordPress", "path": "/assets/stacks/wordpress.svg" },
+		{ "name": "Vite", "path": "/assets/stacks/vite.svg" },
+		{ "name": "Spline", "path": "/assets/stacks/spline.svg" }
+	]
 }
