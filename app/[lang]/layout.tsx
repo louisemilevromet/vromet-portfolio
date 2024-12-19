@@ -22,16 +22,16 @@ export const metadata: Metadata = {
   },
 };
 
-type LayoutProps = {
+// Remove the custom LayoutProps type and use the correct type from Next.js
+export default function RootLayout({
+  children,
+  params: { lang },
+}: {
   children: React.ReactNode;
-  params: {
-    lang: string;
-  };
-};
-
-export default async function RootLayout({ children, params }: LayoutProps) {
+  params: { lang: string };
+}) {
   return (
-    <html lang={params.lang} dir={dir(params.lang)}>
+    <html lang={lang} dir={dir(lang)}>
       <ReactLenis root>
         <body>
           <AnimationScreen />
