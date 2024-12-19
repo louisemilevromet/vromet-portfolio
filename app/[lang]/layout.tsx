@@ -7,37 +7,38 @@ import { AnimationScreen } from "../components/AnimationScreen";
 import { Toaster } from "@/components/ui/toaster";
 
 export async function generateStaticParams() {
-	return languages.map((lang) => ({ lang }));
+  return languages.map((lang) => ({ lang }));
 }
 
 export const metadata: Metadata = {
-	title: "Louis-Émile Vromet's Portfolio",
-	description: "Louis-Émile Vromet's portfolio",
-	icons: {
-		icon: [
-			{ url: "/assets/favicon.ico", sizes: "32x32" },
-			{ url: "/assets/icon.png", sizes: "192x192" },
-		],
-		apple: [{ url: "/assets/apple-icon.png", sizes: "180x180" }],
-	},
+  title: "Louis-Émile Vromet's Portfolio",
+  description: "Louis-Émile Vromet's portfolio",
+  icons: {
+    icon: [
+      { url: "/assets/favicon.ico", sizes: "32x32" },
+      { url: "/assets/icon.png", sizes: "192x192" },
+    ],
+    apple: [{ url: "/assets/apple-icon.png", sizes: "180x180" }],
+  },
 };
 
-export default async function RootLayout({
-	children,
-	params: { lang },
-}: {
-	children: React.ReactNode;
-	params: { lang: string };
-}) {
-	return (
-		<html lang={lang} dir={dir(lang)}>
-			<ReactLenis root>
-				<body>
-					<AnimationScreen />
-					{children}
-					<Toaster />
-				</body>
-			</ReactLenis>
-		</html>
-	);
+type LayoutProps = {
+  children: React.ReactNode;
+  params: {
+    lang: string;
+  };
+};
+
+export default async function RootLayout({ children, params }: LayoutProps) {
+  return (
+    <html lang={params.lang} dir={dir(params.lang)}>
+      <ReactLenis root>
+        <body>
+          <AnimationScreen />
+          {children}
+          <Toaster />
+        </body>
+      </ReactLenis>
+    </html>
+  );
 }
