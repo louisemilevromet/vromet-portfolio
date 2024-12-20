@@ -6,7 +6,8 @@
     { "name": "TypeScript", "path": "/assets/stacks/typescript.svg" },
     { "name": "PHP", "path": "/assets/stacks/php.svg" },
     { "name": "SQL", "path": "/assets/stacks/sql.svg" },
-    { "name": "Solidity", "path": "/assets/stacks/solidity.svg" }
+    { "name": "Solidity", "path": "/assets/stacks/solidity.svg" },
+    { "name": "Dart", "path": "/assets/stacks/dart.svg" }
   ],
   "sections.frameworks": [
     { "name": "React", "path": "/assets/stacks/react.svg" },
@@ -14,6 +15,7 @@
     { "name": "Tailwind", "path": "/assets/stacks/tailwind.svg" },
     { "name": "Sass", "path": "/assets/stacks/sass.svg" },
     { "name": "Svelte", "path": "/assets/stacks/svelte.svg" },
+    { "name": "Flutter", "path": "/assets/stacks/flutter.svg" },
     { "name": "Node js", "path": "/assets/stacks/nodejs.svg" },
     { "name": "Express", "path": "/assets/stacks/express.svg" },
     { "name": "Lexical", "path": "/assets/stacks/lexical.svg" },
