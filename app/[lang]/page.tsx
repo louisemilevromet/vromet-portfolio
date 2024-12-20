@@ -106,8 +106,7 @@ export default async function Page({
 
         <footer className="text-center text-gray-400 mt-16">
           <p>
-            © {new Date().getFullYear()} Louis-Émile Vromet. All rights
-            reserved.
+            © {new Date().getFullYear()} {t("footer_text")}
           </p>
         </footer>
       </div>
