@@ -10,8 +10,14 @@
         "en": "Quebec, Canada",
         "fr": "Québec, Canada"
       },
-      "startDate": "Oct 2024",
-      "endDate": "Present",
+      "startDate": {
+        "en": "Oct 2024",
+        "fr": "Oct 2024"
+      },
+      "endDate": {
+        "en": "Present",
+        "fr": "Présent"
+      },
       "responsibilities": {
         "en": [
           "Developed new features for a SAAS platform.",
@@ -36,8 +42,14 @@
         "en": "Quebec, Canada",
         "fr": "Québec, Canada"
       },
-      "startDate": "Mar 2024",
-      "endDate": "May 2024",
+      "startDate": {
+        "en": "March 2024",
+        "fr": "Mars 2024"
+      },
+      "endDate": {
+        "en": "May 2024",
+        "fr": "Mai 2024"
+      },
       "responsibilities": {
         "en": [
           "Designed and developed an internal Svelte platform to track employees' work hours across projects, integrating with Google Calendar API.",
@@ -65,8 +77,14 @@
         "en": "Quebec, Canada",
         "fr": "Québec, Canada"
       },
-      "startDate": "Summer 2023",
-      "endDate": "Summer 2023",
+      "startDate": {
+        "en": "Summer 2023",
+        "fr": "Été 2023"
+      },
+      "endDate": {
+        "en": "Summer 2023",
+        "fr": "Été 2023"
+      },
       "responsibilities": {
         "en": [
           "Integrated web pages, newsletters, and surveys using CMS tools such as Typo3, Dialog Insight, and SharePoint.",
@@ -91,8 +109,14 @@
         "en": "Quebec, Canada",
         "fr": "Québec, Canada"
       },
-      "startDate": "Summer 2021",
-      "endDate": "Summer 2021",
+      "startDate": {
+        "en": "Summer 2021",
+        "fr": "Été 2021"
+      },
+      "endDate": {
+        "en": "Summer 2021",
+        "fr": "Été 2021"
+      },
       "responsibilities": {
         "en": [
           "Integrated web pages for the '5 ingrédients 15 minutes' website using WordPress.",
