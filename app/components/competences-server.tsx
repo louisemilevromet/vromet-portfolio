@@ -10,6 +10,7 @@ export async function CompetencesServer({ lang }: { lang: string }) {
     "sections.frameworks": t("sections.frameworks"),
     "sections.libraries": t("sections.libraries"),
     "sections.databases": t("sections.databases"),
+    "sections.cms": t("sections.cms"),
     "sections.tools": t("sections.tools"),
   };
 

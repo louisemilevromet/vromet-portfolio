@@ -18,7 +18,6 @@
     { "name": "Flutter", "path": "/assets/stacks/flutter.svg" },
     { "name": "Node js", "path": "/assets/stacks/nodejs.svg" },
     { "name": "Express", "path": "/assets/stacks/express.svg" },
-    { "name": "Lexical", "path": "/assets/stacks/lexical.svg" },
     { "name": "Houdini", "path": "/assets/stacks/houdini.svg" }
   ],
   "sections.libraries": [
@@ -26,6 +25,7 @@
     { "name": "NextAuth", "path": "/assets/stacks/nextauth.svg" },
     { "name": "Stripe", "path": "/assets/stacks/stripe.svg" },
     { "name": "Shadcn UI", "path": "/assets/stacks/shadcn.svg" },
+    { "name": "Lexical", "path": "/assets/stacks/lexical.svg" },
     { "name": "GSAP", "path": "/assets/stacks/gsap.svg" },
     { "name": "Three js", "path": "/assets/stacks/threejs.svg" },
     { "name": "Framer Motion", "path": "/assets/stacks/framer.svg" },
@@ -37,6 +37,10 @@
     { "name": "SQLite", "path": "/assets/stacks/sqlite.svg" },
     { "name": "PostgreSQL", "path": "/assets/stacks/postgresql.svg" }
   ],
+  "sections.cms": [
+    { "name": "DatoCMS", "path": "/assets/stacks/dato.svg" },
+    { "name": "WordPress", "path": "/assets/stacks/wordpress.svg" }
+  ],
   "sections.tools": [
     { "name": "Git", "path": "/assets/stacks/git.svg" },
     { "name": "Docker", "path": "/assets/stacks/docker.svg" },
@@ -46,10 +50,8 @@
     { "name": "Bitbucket", "path": "/assets/stacks/bitbucket.svg" },
     { "name": "Github", "path": "/assets/stacks/github.svg" },
     { "name": "Gitlab", "path": "/assets/stacks/gitlab.svg" },
-    { "name": "DatoCMS", "path": "/assets/stacks/dato.svg" },
     { "name": "Vercel", "path": "/assets/stacks/vercel.svg" },
     { "name": "Mamp", "path": "/assets/stacks/mamp.svg" },
-    { "name": "WordPress", "path": "/assets/stacks/wordpress.svg" },
     { "name": "Vite", "path": "/assets/stacks/vite.svg" },
     { "name": "Spline", "path": "/assets/stacks/spline.svg" }
   ]

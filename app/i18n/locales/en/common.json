@@ -26,6 +26,7 @@
     "frameworks": "Frameworks",
     "libraries": "Libraries",
     "databases": "Databases",
+    "cms": "CMS",
     "tools": "Tools"
   }
 }
