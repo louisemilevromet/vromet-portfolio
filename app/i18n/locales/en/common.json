@@ -14,11 +14,13 @@
   "interest_description": "Always curious, I am passionate about merging my interests in finance and cryptocurrencies with my technical skills to create innovative projects.",
   "competences_title": "Competences 💻",
   "projects_title": "Projects 💡",
+  "solo_project": "Solo Project",
+  "collab_project": "Collaborative Project",
+  "role_project": "Role",
   "experience_title": "Experiences 🔮",
   "mobile_toast_description": "View on desktop for full experience details",
   "view_project_button": "View",
   "footer_text": "Louis-Émile Vromet. All rights reserved.",
-
   "sections": {
     "languages": "Languages",
     "frameworks": "Frameworks",
