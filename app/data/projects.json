@@ -1,93 +1,93 @@
 [
-	{
-		"title": {
-			"fr": "Plateforme de Financement Crypto",
-			"en": "Crypto Crowdfunding Platform"
-		},
-		"description": {
-			"fr": "Plateforme de financement participatif en crypto",
-			"en": "Crypto Crowdfunding Platform"
-		},
-		"url": "https://vromet-crypto-crowdfunding.vercel.app/",
-		"role": "Full-Stack",
-		"collaboration": false
-	},
-	{
-		"title": {
-			"fr": "SAAS - Liste de Tâches",
-			"en": "SAAS - ToDo List"
-		},
-		"description": {
-			"fr": "Liste de tâches sous forme de SAAS",
-			"en": "ToDo List under SAAS form"
-		},
-		"url": "https://vromet-todo-list.vercel.app/",
-		"role": "Full-Stack",
-		"collaboration": false
-	},
-	{
-		"title": {
-			"fr": "Mangez du Code",
-			"en": "Eat the Code"
-		},
-		"description": {
-			"fr": "Expérience immersive McDonald's",
-			"en": "Immersive McDonald's Experience"
-		},
-		"url": "https://www4.mcdonalds.ca/mangezducode/",
-		"role": "Front-End",
-		"collaboration": true
-	},
-	{
-		"title": {
-			"fr": "Roses",
-			"en": "Roses"
-		},
-		"description": {
-			"fr": "Site web d'une équipe de soccer féminine",
-			"en": "A Female Soccer Team Website"
-		},
-		"url": "https://www.slnmtl.com/",
-		"role": "Back-End",
-		"collaboration": true
-	},
-	{
-		"title": {
-			"fr": "Agence LEVup",
-			"en": "LEVup Agency"
-		},
-		"description": {
-			"fr": "Site web d'une agence de marketing numérique",
-			"en": "Digital Marketing Agency Website"
-		},
-		"url": "https://vromet-levup-agency.vercel.app/",
-		"role": "Full-Stack",
-		"collaboration": false
-	},
-	{
-		"title": {
-			"fr": "Le Moustique",
-			"en": "The Mosquito"
-		},
-		"description": {
-			"fr": "Jeu inspiré de Rayman",
-			"en": "Rayman Inspired Game"
-		},
-		"url": "https://vromet-the-mosquito.vercel.app/",
-		"role": "Full-Stack",
-		"collaboration": false
-	},
-	{
-		"title": {
-			"fr": "Newton",
-			"en": "Newton"
-		},
-		"description": {
-			"fr": "Plateforme de donation",
-			"en": "Donation Platform"
-		},
-		"url": "https://vromet-newton.vercel.app/",
-		"role": "Full-Stack",
-		"collaboration": false
-	}
+  {
+    "title": {
+      "fr": "Plateforme de Financement Crypto",
+      "en": "Crypto Crowdfunding Platform"
+    },
+    "description": {
+      "fr": "Plateforme de financement participatif en crypto",
+      "en": "Crypto Crowdfunding Platform"
+    },
+    "url": "https://vromet-crypto-crowdfunding.vercel.app/",
+    "role": "Full-Stack",
+    "collaboration": false
+  },
+  {
+    "title": {
+      "fr": "SAAS - Liste de Tâches",
+      "en": "SAAS - ToDo List"
+    },
+    "description": {
+      "fr": "Liste de tâches sous forme de SAAS",
+      "en": "ToDo List under SAAS form"
+    },
+    "url": "https://vromet-todo-list.vercel.app/",
+    "role": "Full-Stack",
+    "collaboration": false
+  },
+  {
+    "title": {
+      "fr": "Mangez du Code",
+      "en": "Eat the Code"
+    },
+    "description": {
+      "fr": "Expérience immersive McDonald's",
+      "en": "Immersive McDonald's Experience"
+    },
+    "url": "https://www4.mcdonalds.ca/mangezducode/",
+    "role": "Front-End",
+    "collaboration": true
+  },
+  {
+    "title": {
+      "fr": "Roses",
+      "en": "Roses"
+    },
+    "description": {
+      "fr": "Site web d'une équipe de soccer féminine",
+      "en": "A Female Soccer Team Website"
+    },
+    "url": "https://www.slnmtl.com/",
+    "role": "Back-End",
+    "collaboration": true
+  },
+  {
+    "title": {
+      "fr": "Agence LEVup",
+      "en": "LEVup Agency"
+    },
+    "description": {
+      "fr": "Site web d'une agence de marketing numérique",
+      "en": "Digital Marketing Agency Website"
+    },
+    "url": "https://vromet-levup-agency.vercel.app/",
+    "role": "Full-Stack",
+    "collaboration": false
+  },
+  {
+    "title": {
+      "fr": "Le Moustique",
+      "en": "The Mosquito"
+    },
+    "description": {
+      "fr": "Jeu inspiré de Rayman",
+      "en": "Rayman Inspired Game"
+    },
+    "url": "https://vromet-mosquito.vercel.app/",
+    "role": "Full-Stack",
+    "collaboration": false
+  },
+  {
+    "title": {
+      "fr": "Newton",
+      "en": "Newton"
+    },
+    "description": {
+      "fr": "Plateforme de donation",
+      "en": "Donation Platform"
+    },
+    "url": "https://vromet-newton.vercel.app/",
+    "role": "Full-Stack",
+    "collaboration": false
+  }
 ]

@@ -18,9 +18,11 @@
     { "name": "Flutter", "path": "/assets/stacks/flutter.svg" },
     { "name": "Node js", "path": "/assets/stacks/nodejs.svg" },
     { "name": "Express", "path": "/assets/stacks/express.svg" },
-    { "name": "Houdini", "path": "/assets/stacks/houdini.svg" }
+    { "name": "Houdini", "path": "/assets/stacks/houdini.svg" },
+    { "name": "Hardhat", "path": "/assets/stacks/hardhat.svg" }
   ],
   "sections.libraries": [
+    { "name": "Convex", "path": "/assets/stacks/convex.svg" },
     { "name": "Prisma", "path": "/assets/stacks/prisma.svg" },
     { "name": "NextAuth", "path": "/assets/stacks/nextauth.svg" },
     { "name": "Stripe", "path": "/assets/stacks/stripe.svg" },
@@ -39,7 +41,8 @@
   ],
   "sections.cms": [
     { "name": "DatoCMS", "path": "/assets/stacks/dato.svg" },
-    { "name": "WordPress", "path": "/assets/stacks/wordpress.svg" }
+    { "name": "WordPress", "path": "/assets/stacks/wordpress.svg" },
+    { "name": "Typo3", "path": "/assets/stacks/typo3.svg" }
   ],
   "sections.tools": [
     { "name": "Git", "path": "/assets/stacks/git.svg" },
@@ -53,6 +56,8 @@
     { "name": "Vercel", "path": "/assets/stacks/vercel.svg" },
     { "name": "Mamp", "path": "/assets/stacks/mamp.svg" },
     { "name": "Vite", "path": "/assets/stacks/vite.svg" },
-    { "name": "Spline", "path": "/assets/stacks/spline.svg" }
+    { "name": "Bun", "path": "/assets/stacks/bun.svg" },
+    { "name": "Spline", "path": "/assets/stacks/spline.svg" },
+    { "name": "FileZilla", "path": "/assets/stacks/filezilla.svg" }
   ]
 }
