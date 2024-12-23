@@ -7,7 +7,7 @@ export default async function Experiences({ lang }: { lang: string }) {
   const { t } = await useTranslation(lang, "common");
 
   return (
-    <section className="border border-[#e5e7eb0f] rounded-lg p-4 sm:p-6 shadow-lg">
+    <section className="border border-[#e5e7eb0f] rounded-[0.5rem] p-4 sm:p-6 shadow-lg">
       <h2 className="text-3xl font-bold mb-6 sm:mb-8">
         {t("experience_title")}
       </h2>
@@ -15,7 +15,7 @@ export default async function Experiences({ lang }: { lang: string }) {
         {experiences.experiences.map((experience, index) => (
           <div
             key={index}
-            className="rounded-lg p-3 sm:p-4 shadow-md duration-200 outline outline-1 outline-[#e5e7eb0f]"
+            className="rounded-[0.5rem] p-3 sm:p-4 shadow-md duration-200 outline outline-1 outline-[#e5e7eb0f]"
           >
             <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between">
               <div className="flex flex-col sm:flex-row gap-2 mb-3 sm:mb-0">

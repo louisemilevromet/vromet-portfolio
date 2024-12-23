@@ -24,6 +24,7 @@
 		"next": "^15.1.2",
 		"next-i18next": "^15.4.1",
 		"react": "^19.0.0",
+		"react-device-detect": "^2.2.3",
 		"react-dom": "^19.0.0",
 		"scrollmagic": "^2.0.8",
 		"scrollmagic-plugin-gsap": "^1.0.4",

@@ -15,7 +15,7 @@ export async function CompetencesServer({ lang }: { lang: string }) {
   };
 
   return (
-    <section className="border border-[#e5e7eb0f] rounded-lg p-6 shadow-lg">
+    <section className="border border-[#e5e7eb0f] rounded-[0.5rem] p-6 shadow-lg">
       <h2 className="text-2xl font-bold mb-4">{t("competences_title")}</h2>
       <CompetencesClient
         technologies={technologies}

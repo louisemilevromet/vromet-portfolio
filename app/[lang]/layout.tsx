@@ -4,6 +4,23 @@ import ReactLenis from "lenis/react";
 import { dir } from "i18next";
 import { AnimationScreen } from "../components/AnimationScreen";
 import { Toaster } from "@/components/ui/toaster";
+import { ProgressBar } from "../components/ProgressBar";
+import localFont from "next/font/local";
+
+const myFont = localFont({
+  src: [
+    {
+      path: "../../public/fonts/Satoshi-Regular.woff2",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "../../public/fonts/Satoshi-Bold.woff2",
+      weight: "700",
+      style: "normal",
+    },
+  ],
+});
 
 export const metadata: Metadata = {
   title: "Louis-Émile Vromet's Portfolio",
@@ -27,10 +44,11 @@ export default async function RootLayout({
   const { lang } = await params;
 
   return (
-    <html lang={lang} dir={dir(lang)}>
+    <html lang={lang} dir={dir(lang)} className={myFont.className}>
       <body>
         <ReactLenis root>
           <AnimationScreen />
+          <ProgressBar />
           <div className="start-loading loading">{children}</div>
           <Toaster />
         </ReactLenis>

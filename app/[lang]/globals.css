@@ -10,7 +10,6 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: "Arial", sans-serif;
 }
 
 .pulse {
@@ -60,4 +59,12 @@ body {
 
 .loaded {
   visibility: visible;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  scrollbar-width: none;
 }
