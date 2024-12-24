@@ -14,7 +14,9 @@ const AnimationScreenClient = () => {
     document.body.classList.add("scroll-freeze");
 
     setTimeout(() => {
-      document.querySelector(".start-loading")?.classList.remove("loading");
+      document.querySelectorAll(".start-loading")?.forEach((element) => {
+        element.classList.remove("loading");
+      });
     }, 500);
 
     const scrollTimer = setTimeout(() => {
